@@ -1,0 +1,15 @@
+node_modules
+.expo
+.expo-shared
+.expo-packager-cache
+.expo-dev-client-logs
+.expo/web-build
+.github/skills
+.github/pull_request_template.md
+.claude
+.codex
+context
+README.md
+WORKFLOW.md
+AGENTS.md
+LICENSE

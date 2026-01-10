@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Agentic Dev Template Expo",
+    "slug": "agentic-dev-template-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "jsEngine": "hermes",
+    "entryPoint": "./src/App.tsx"
+  }
+}
